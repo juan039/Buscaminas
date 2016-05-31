@@ -1,0 +1,20 @@
+.tablero{
+	border: 1px solid black;
+    border-collapse: collapse;
+    width: 12em;
+    align: center;
+    align-self: 
+
+}
+
+table{
+	
+}
+
+td {
+	border: 1px solid black;
+    border-collapse: collapse;
+    width: 5%;
+    width: 2em;
+    height: 2em;
+}
